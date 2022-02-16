@@ -28,6 +28,8 @@ body {
   justify-content: space-between;
   align-items: flex-start;
   color: var(--extra-color);
+  color: var(--extra-dark-color);
+
   margin: var(--gap-largest);
 }
 
@@ -40,7 +42,7 @@ body {
   margin: 2rem 0;
 }
 .main-content button {
-  border: 2px solid rgb(214, 69, 219);
+  border: 2px solid var(--extra-dark-color);
   padding: var(--gap-small);
   border-radius: var(--br-S);
   background-color: var(--extra-color);
