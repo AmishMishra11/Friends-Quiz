@@ -76,3 +76,18 @@ body {
   width: 100%;
   height: auto;
 }
+
+@media (max-width: 600px) {
+  .container-main {
+    height: 45vh;
+  }
+}
+
+@media (max-width: 400px) {
+  .main-content {
+    height: 15rem;
+  }
+  .container-main {
+    align-items: center;
+  }
+}
