@@ -14,27 +14,22 @@ body {
   font-size: 1.2rem;
 }
 
-/* colors */
 :root {
+  /* colors */
   --correct-color: #2bc20e;
   --incorrect-color: #cb0000;
   --background-color: #0e131f;
   --background-S-color: #f2f7f2;
   --extra-color: #e0acd5;
-}
 
-/* gap // spacing */
-:root {
+  /* gap // spacing */
   --gap-largest: 2rem 3.5rem;
   --gap-large: 1.5rem 2.5rem;
   --gap-medium: 1rem 1.5rem;
   --gap-small: 0.5rem 1rem;
   --gap-smallest: 0.25rem 0.5rem;
-}
 
-/* border radius */
-
-:root {
+  /* border radius */
   --br-S: 5px;
   --br-L: 15px;
   --br-C: 50%;
