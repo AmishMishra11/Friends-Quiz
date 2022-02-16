@@ -18,6 +18,8 @@ body {
   /* colors */
   --correct-color: #2bc20e;
   --incorrect-color: #cb0000;
+
+  --incorrect-color2: #e21717;
   --background-color: #0e131f;
   --background-S-color: #f2f7f2;
   --extra-color: #e0acd5;
@@ -32,6 +34,8 @@ body {
 
   /* border radius */
   --br-S: 5px;
+
+  --br-M: 10px;
   --br-L: 15px;
   --br-C: 50%;
 }
