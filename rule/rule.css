@@ -7,7 +7,7 @@ body {
   padding: var(--gap-medium);
   justify-content: space-between;
 
-  color: var(--background-color);
+  color: var(--text-color);
   background-color: var(--extra-color);
 }
 
@@ -16,7 +16,7 @@ body {
 }
 
 .nav-links a {
-  color: var(--background-color);
+  color: var(--text-color);
 }
 .nav-links h3 {
   padding: var(--gap-small);
@@ -42,12 +42,9 @@ li {
   padding: var(--gap-medium);
   border-radius: var(--br-M);
 }
-.back {
-  background-color: var(--incorrect-color);
-}
-
+.back,
 .start {
-  background-color: var(--correct-color);
+  background-color: var(--extra-dark-color);
 }
 
 @media (max-width: 600px) {
