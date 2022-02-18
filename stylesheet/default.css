@@ -32,6 +32,7 @@ body {
 
   /* border radius */
   --br-S: 5px;
+  --br-M: 10px;
   --br-L: 15px;
   --br-C: 50%;
 }
