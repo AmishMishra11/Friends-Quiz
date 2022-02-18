@@ -1,5 +1,5 @@
 body {
-  background-color: var(--background-S-color);
+  background-color: var(--background-color);
 }
 
 /* navigation */
@@ -7,7 +7,7 @@ body {
   padding: var(--gap-medium);
   justify-content: space-between;
 
-  color: var(--background-S-color);
+  color: var(--text-color);
   background-color: var(--extra-color);
 }
 
@@ -16,7 +16,7 @@ body {
 }
 
 .nav-links a {
-  color: var(--background-S-color);
+  color: var(--text-color);
 }
 .nav-links h3 {
   padding: var(--gap-small);
